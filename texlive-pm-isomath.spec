@@ -1,6 +1,6 @@
 Name:		texlive-pm-isomath
 Version:	60368
-Release:	1
+Release:	2
 Summary:	Poor man ISO math for pdfLaTeX users
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pm-isomath
