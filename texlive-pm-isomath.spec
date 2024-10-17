@@ -3,7 +3,7 @@ Version:	60368
 Release:	2
 Summary:	Poor man ISO math for pdfLaTeX users
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pm-isomath
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/pm-isomath
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pm-isomath.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pm-isomath.doc.r%{version}.tar.xz
